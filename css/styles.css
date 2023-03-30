@@ -14,7 +14,7 @@ html, body, #container {
   
   .artist-album-tile:hover {
     cursor: pointer;
-    background-color: #989ea6;
+    background-color: #309552;
   }
   
   .artist-name {
